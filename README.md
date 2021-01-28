@@ -22,8 +22,6 @@ The project was to create three pages and to list coding technoligies using ther
 [Github](https://github.com/)
 - I used github to store and save the data.
 
-[Hover.css:](https://www.w3schools.com/cssref/sel_hover.asp)
-- Hover.css: was used on the navigation elements to change the colour and background colour when the mouse hovers over them.
 
 ## Deployment
 
